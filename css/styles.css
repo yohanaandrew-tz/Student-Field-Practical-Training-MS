@@ -1,0 +1,62 @@
+.logo{
+    /*border-radius: 50%;*/
+}
+.hd{
+height:auto;
+}
+.header{
+    height: 70px;
+}
+.avt{
+    border-radius: 50%; 
+    float: right;
+}
+.leftbar{
+    
+    
+}
+.default{
+    background-color: white;
+    padding:;
+}
+footer{
+    color: white;
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0rem;
+    padding: 5 px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#add{
+    display:;
+}
+table{
+    width: 100%;
+}
+table,th,td{
+    /*border: 1px solid skyblue;*/
+    border-collapse: collapse;
+    font-size: 12px;
+}
+th{
+    color: white;
+    background-color: skyblue;
+}
+.box{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border-radius: 25%;
+    background-color: blue;
+    color: white;
+}
+form{
+    padding: 10px;
+}
+.tbl{
+    overflow-x: auto;
+ }
